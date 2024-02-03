@@ -1,14 +1,17 @@
-# .net-nuxt-template
+# release-manager
 
-## A template for .Net/Nuxt3 SPA application
+A small template tool to help people to manage release to production.
+Each release created, with the tool, is located here `release-manager\ReleaseManager\LocalStorage\your_release.json`.
 
-This repo has been made to be used as a default template to create .Net/Nuxt3 SPA project.
+## Nuxt 3 Minimal Starter
+
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup to launch the SPA
 
 Try to use the latest version of Node.js (using the 20.10.0 for Nuxt 3.9 for example).
 
-If you need to switch from Node version, you can use NVM or FNM.
+To switch from Node version, you can use NVM or FNM.
 For NVM:
 
 - [Github repo](https://github.com/coreybutler/nvm-windows#readme)
@@ -23,4 +26,9 @@ For FNM:
 
 - [Github repo](https://github.com/Schniz/fnm)
 
-Now that you're using the right Node version, you can use this template and make your own project.
+Now that you're using the right Node version, you can launch the solution and a window will open.
+
+## Helpful Tools
+
+- [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (VSCode extension)
+- [Vue Devtools](https://devtools.vuejs.org/) (Browser extension)

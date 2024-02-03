@@ -1,0 +1,141 @@
+{
+  "app": {
+    "name": "ReleaseManager"
+  },
+  "links": {
+    "homepage": "Page d'accueil",
+    "task1": "Tâche 1",
+    "task2": "Tâche 2",
+    "task3": "Tâche 3",
+    "task4": "Tâche 4",
+    "task5": "Tâche 5",
+    "task6": "Tâche 6",
+    "task7": "Tâche 7",
+    "task8": "Tâche 8",
+    "task9": "Tâche 9",
+    "task10": "Tâche 10",
+    "task11": "Tâche 11",
+    "task12": "Tâche 12",
+    "task13": "Tâche 13",
+    "task14": "Tâche 14",
+    "task15": "Tâche 15",
+    "task16": "Tâche 16",
+    "task17": "Tâche 17",
+    "task18": "Tâche 18",
+    "task19": "Tâche 19",
+    "task20": "Tâche 20",
+    "task21": "Tâche 21",
+    "task22": "Tâche 22"
+  },
+  "components": {
+    "comingSoon": {
+      "title": "Coming Soon",
+      "infos": "Cette partie n'est pas encore finalisée, mais cela ne saurait tarder !"
+    },
+    "createReleaseModal": {
+      "title": "Création d'une nouvelle MEP",
+      "name": "Nom de la MEP:",
+      "date": "Date de la MEP:",
+      "create": "Créer la MEP",
+      "success": "Réussi !",
+      "created": "La MEP a été créée avec succès"
+    },
+    "header": {
+      "title": "Release Manager"
+    },
+    "releaseCreator": {
+      "title": "Nouvelle MEP"
+    },
+    "releaseInfo": {
+      "enableFunkyMode": "Funky mode"
+    },
+    "rollbackDetails": {
+      "text1": "** Si à tout moment, un rollback est nécessaire, voici les étapes: **",
+      "text2": "Faire ceci.",
+      "text3": "Puis faire cela.",
+      "text4": "Enfin procéder ainsi.",
+      "text5": "Pour finir, faire cela."
+    },
+    "task": {
+      "daysLeft": "Jours restants:",
+      "days": "jours"
+    }
+  },
+  "pages": {
+    "default": {
+      "releasesNameList": "Liste des 15 dernières releases existantes:",
+      "noRelease": "Aucune MEP n'a encore été créée, lance toi !",
+      "errorNoRelease": "La MEP n'existe pas / plus"
+    },
+    "task1": {
+      "info1": "Faire l'étape 1."
+    },
+    "task2": {
+      "info1": "Faire l'étape 2."
+    },
+    "task3": {
+      "info1": "Faire l'étape 3."
+    },
+    "task4": {
+      "info1": "Faire l'étape 4."
+    },
+    "task5": {
+      "info1": "Faire l'étape 5."
+    },
+    "task6": {
+      "info1": "Faire l'étape 6."
+    },
+    "task7": {
+      "info1": "Faire l'étape 7."
+    },
+    "task8": {
+      "info1": "Faire l'étape 8."
+    },
+    "task9": {
+      "info1": "Faire l'étape 9."
+    },
+    "task10": {
+      "info1": "Faire l'étape 10."
+    },
+    "task11": {
+      "info1": "Faire l'étape 11."
+    },
+    "task12": {
+      "info1": "Faire l'étape 12."
+    },
+    "task13": {
+      "info1": "Faire l'étape 13."
+    },
+    "task14": {
+      "info1": "Faire l'étape 14."
+    },
+    "task15": {
+      "info1": "Faire l'étape 15."
+    },
+    "task16": {
+      "info1": "Faire l'étape 16."
+    },
+    "task17": {
+      "info1": "Faire l'étape 17."
+    },
+    "task18": {
+      "info1": "Faire l'étape 18."
+    },
+    "task19": {
+      "info1": "Faire l'étape 19."
+    },
+    "task20": {
+      "info1": "Faire l'étape 20."
+    },
+    "task21": {
+      "info1": "Faire l'étape 21."
+    },
+    "task22": {
+      "info1": "Bravo !"
+    }
+  },
+  "miscellaneous": {
+    "error": "Une erreur s'est produite:",
+    "the": "le"
+  }
+}
