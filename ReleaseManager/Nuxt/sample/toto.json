@@ -1,0 +1,161 @@
+{
+  "id": "cdfab9ed-9ca5-4a4d-9732-9a9ec21b1e44",
+  "name": "toto",
+  "releaseDate": "2024-02-22T15:49:00Z",
+  "tasks": [
+    {
+      "id": "cea4a251-466b-49ea-8d67-bd00fb890210",
+      "name": "Task 1",
+      "linkKey": "task1",
+      "isDone": false,
+      "nbDaysBeforeRelease": 21
+    },
+    {
+      "id": "31b3d30f-6edb-4ecc-bed1-ca3bf6563eb5",
+      "name": "Task 2",
+      "linkKey": "task2",
+      "isDone": false,
+      "nbDaysBeforeRelease": 21
+    },
+    {
+      "id": "9c3e92ee-6038-488a-a7e1-03c995edc5ab",
+      "name": "Task 3",
+      "linkKey": "task3",
+      "isDone": false,
+      "nbDaysBeforeRelease": 21
+    },
+    {
+      "id": "2577e200-fecd-46d3-a917-de713e7e6d4d",
+      "name": "Task 4",
+      "linkKey": "task4",
+      "isDone": false,
+      "nbDaysBeforeRelease": 7
+    },
+    {
+      "id": "9de1f163-6c6c-4ff5-861a-5fad3402fca0",
+      "name": "Task 5",
+      "linkKey": "task5",
+      "isDone": false,
+      "nbDaysBeforeRelease": 7
+    },
+    {
+      "id": "d8313425-84fb-4440-8df8-460b7755d944",
+      "name": "Task 6",
+      "linkKey": "task6",
+      "isDone": false,
+      "nbDaysBeforeRelease": 7
+    },
+    {
+      "id": "22bcc741-47a6-40f4-9924-616f0c11d762",
+      "name": "Task 7",
+      "linkKey": "task7",
+      "isDone": false,
+      "nbDaysBeforeRelease": 7
+    },
+    {
+      "id": "1326b51b-ebe2-43e5-b10c-c286ab489d09",
+      "name": "Task 8",
+      "linkKey": "task8",
+      "isDone": false,
+      "nbDaysBeforeRelease": 7
+    },
+    {
+      "id": "e3aae5fe-260a-4c2b-9ce0-1a0a48c6deb8",
+      "name": "Task 9",
+      "linkKey": "task9",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "507f7fb6-652c-4e4c-8df2-d4835b93bb47",
+      "name": "Task 10",
+      "linkKey": "task10",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "d07b2841-3209-448b-a0b2-8eb90480ab1f",
+      "name": "Task 11",
+      "linkKey": "task11",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "37165ea1-caee-41c0-a64f-d295bbc485ad",
+      "name": "Task 12",
+      "linkKey": "task12",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "d2a353bb-3bfd-4f46-b85f-fd7f02da20b7",
+      "name": "Task 13",
+      "linkKey": "task13",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "bbd58c08-4a26-4b3e-9349-303a64dba836",
+      "name": "Task 14",
+      "linkKey": "task14",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "b123c05b-7756-434c-bbc1-d312e2f06e48",
+      "name": "Task 15",
+      "linkKey": "task15",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "4f8000e1-c101-4076-b5c2-657f2643e0fd",
+      "name": "Task 16",
+      "linkKey": "task16",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "c2adb043-86d9-4448-b34b-ae339d13fa01",
+      "name": "Task 17",
+      "linkKey": "task17",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "49072751-43b3-4bda-b147-a1438aae5d8b",
+      "name": "Task 18",
+      "linkKey": "task18",
+      "isDone": false,
+      "nbDaysBeforeRelease": 0
+    },
+    {
+      "id": "99d98bae-23ae-49ef-924d-4b22d9820705",
+      "name": "Task 19",
+      "linkKey": "task19",
+      "isDone": false,
+      "nbDaysBeforeRelease": -1
+    },
+    {
+      "id": "1ea23cf6-29eb-44ea-8610-8775d399e7dd",
+      "name": "Task 20",
+      "linkKey": "task20",
+      "isDone": false,
+      "nbDaysBeforeRelease": -1
+    },
+    {
+      "id": "ec52298f-2c5f-4ebf-bbb6-e9744c91a45b",
+      "name": "Task 21",
+      "linkKey": "task21",
+      "isDone": false,
+      "nbDaysBeforeRelease": -1
+    },
+    {
+      "id": "118757d8-0570-454d-8ae4-a66dad453fb5",
+      "name": "Task 22",
+      "linkKey": "task22",
+      "isDone": false,
+      "nbDaysBeforeRelease": -1
+    }
+  ]
+}
