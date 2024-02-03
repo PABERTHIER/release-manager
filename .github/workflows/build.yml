@@ -8,6 +8,9 @@ on:
     branches:
       - '*'
 
+env:
+  PROJECT_NAME: ReleaseManager/ReleaseManager.sln
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,13 +35,13 @@ jobs:
         run: dotnet --info
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore $PROJECT_NAME
 
       - name: Build
-        run: dotnet build --no-restore
+        run: dotnet build $PROJECT_NAME --no-restore
 
       - name: Test
-        run: dotnet test --no-build --verbosity normal
+        run: dotnet test $PROJECT_NAME --no-build --verbosity normal
 
 
 
