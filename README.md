@@ -1,5 +1,7 @@
 # release-manager
 
+[![CICD](https://github.com/PABERTHIER/release-manager/actions/workflows/build.yml/badge.svg)](https://github.com/PABERTHIER/release-manager/actions/workflows/build.yml)
+
 A small template tool to help people to manage release to production.
 Each release created, with the tool, is located here `release-manager\ReleaseManager\LocalStorage\your_release.json`.
 
