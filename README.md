@@ -9,7 +9,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Setup to launch the SPA
 
-Try to use the latest version of Node.js (using the 20.10.0 for Nuxt 3.9 for example).
+Try to use the latest version of Node.js (using the 22.00.0 for Nuxt 3.12.2 for example).
 
 To switch from Node version, you can use NVM or FNM.
 For NVM:
